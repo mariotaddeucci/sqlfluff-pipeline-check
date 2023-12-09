@@ -1,4 +1,4 @@
-INSERT INTO acp_edw.edw.apptentive_fansignals (
+INSRT INTO acp_edw.edw.apptentive_fansignals (
     recorded_dtm,
     acc_uid
 )
